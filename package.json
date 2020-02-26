@@ -1,6 +1,6 @@
 {
-	"author": "Jin Hyung Park",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jin Hyung Park",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
